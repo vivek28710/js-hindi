@@ -1,2 +1,2 @@
 # js-hindi
-A code repo fjava script
+A code repo for java script
